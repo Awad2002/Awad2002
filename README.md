@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi :wave:, I'm Mamoun Abu Salah</h1>
+<h3 align="center">Mobile Full-Stack Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mamoun2020&label=Profile%20views&color=0e75b6&style=flat" alt="Mamoun2020" /> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/amr-awad-1894aa163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amr-awad-1894aa163" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011297884279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011297884279" height="30" width="40" /></a>
 
-<!--
-**Awad2002/Awad2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
 
-Here are some ideas to get you started:
+<a href="https://github-readme-stats.vercel.app/api?username=Awad2002&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Awad2002&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<!-- <a href="https://github.com/m0rp43us">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awad2002&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+
+
+
+<b>🔥 Github Streaks</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Awad2002&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
