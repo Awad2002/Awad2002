@@ -18,15 +18,16 @@
 </a> -->
 
 ### Languages
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=typescript)
 ![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+![Vue](https://img.shields.io/badge/-Vuejs-000?&logo=vue)
+![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=nuxt)
 
 
 
