@@ -28,8 +28,8 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Vue](https://img.shields.io/badge/-Vuejs-000?&logo=vue)
-![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=nuxt)
+![Vue](https://img.shields.io/badge/-VueJs-000?&logo=vue.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=nuxt.js)
 
 
 
